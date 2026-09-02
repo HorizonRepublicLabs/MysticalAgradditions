@@ -5,7 +5,7 @@ license="MIT"
     modId="mysticalagradditions"
     version="${mod_version}"
     displayName="Mystical Agradditions"
-    updateJSONURL="https://api.blakesmods.com/v2/mods/mysticalagradditions/26.1/updates"
+    updateJSONURL="https://api.blakesmods.com/v2/mods/mysticalagradditions/26.2/updates"
     displayURL="https://blakesmods.com/mystical-agradditions"
     # logoFile="examplemod.png"
     authors="BlakeBr0"
@@ -17,13 +17,13 @@ license="MIT"
     [[dependencies.mysticalagradditions]]
         modId="neoforge"
         mandatory=true
-        versionRange="[26.1.2.41-beta,)"
+        versionRange="[26.2.0.67,)"
         ordering="NONE"
         side="BOTH"
     [[dependencies.mysticalagradditions]]
         modId="minecraft"
         mandatory=true
-        versionRange="[26.1.2,26.2)"
+        versionRange="[26.2,)"
         ordering="NONE"
         side="BOTH"
     [[dependencies.mysticalagradditions]]
