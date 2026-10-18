@@ -10,8 +10,11 @@
       "crop": "mysticalagradditions:neutronium"
     },
     {
-      "type": "mysticalagriculture:crop_has_material",
-      "crop": "mysticalagradditions:neutronium"
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "mysticalagradditions:neutronium_ingot"
+      }
     }
   ],
   "pattern": [

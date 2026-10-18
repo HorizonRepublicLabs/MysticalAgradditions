@@ -10,8 +10,11 @@
       "crop": "mysticalagradditions:awakened_draconium"
     },
     {
-      "type": "mysticalagriculture:crop_has_material",
-      "crop": "mysticalagradditions:awakened_draconium"
+      "type": "neoforge:not",
+      "value": {
+        "type": "neoforge:tag_empty",
+        "tag": "c:ingots/draconium_awakened"
+      }
     }
   ],
   "pattern": [

@@ -17,13 +17,13 @@ license="MIT"
     [[dependencies.mysticalagradditions]]
         modId="neoforge"
         mandatory=true
-        versionRange="[26.2.0.67,)"
+        versionRange="[26.3.0.76,)"
         ordering="NONE"
         side="BOTH"
     [[dependencies.mysticalagradditions]]
         modId="minecraft"
         mandatory=true
-        versionRange="[26.2,)"
+        versionRange="[26.3,26.4)"
         ordering="NONE"
         side="BOTH"
     [[dependencies.mysticalagradditions]]
